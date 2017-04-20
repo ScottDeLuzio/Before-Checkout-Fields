@@ -28,9 +28,9 @@ function show_children_group( $repeat, $field_id ){
          echo '<strong>Child ' . $repeat . ':</strong>';
          break;
       case '2':
-         /* This would be the Spanish version that would show up for field #3
+         /* This would be the Spanish version that would show up for field #2
           * Add case 'XX': etc. under case '2': above to add additional fields.
-          * Replace '1' or 'XX' with actual field IDs.
+          * Replace '2' or 'XX' with actual field IDs.
           */
          echo '<strong>Niño ' . $repeat . ':</strong>';
          break;
